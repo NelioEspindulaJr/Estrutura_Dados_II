@@ -1,3 +1,5 @@
+// DESENVOLVIMENTO DA ÁRVORE TREAP  - NÉLIO ESPÍNDULA JUNIOR CC6N
+// DIÁRIO DE BORDO (02/11/2024)
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
